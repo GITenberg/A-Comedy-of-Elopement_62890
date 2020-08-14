@@ -1,0 +1,30 @@
+_repo: A-Comedy-of-Elopement_62890
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reid, Christian
+    aliases:
+    - Tiernan, Frances Christine Fisher
+    - Fisher, Frances
+    birthdate: 1846
+    deathdate: 1920
+    gutenberg_agent_id: '48106'
+    url: http://www.gutenberg.org/2009/agents/48106
+    wikipedia: https://en.wikipedia.org/wiki/Christian_Reid
+description: ''
+gutenberg_issued: '2020-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Florida -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: A Comedy of Elopement
+url: http://www.gutenberg.org/ebooks/62890
