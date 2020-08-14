@@ -1,5 +1,8 @@
 _repo: A-Comedy-of-Elopement_62890
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62890-h/images/cover.jpg
 creator:
   author:
     agent_name: Reid, Christian
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48106
     wikipedia: https://en.wikipedia.org/wiki/Christian_Reid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62890#A-Comedy-of-Elopement
 gutenberg_issued: '2020-08-09'
 gutenberg_type: Text
 identifiers:
